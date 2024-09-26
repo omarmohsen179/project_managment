@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qIeqLFhQy8VqkLW5WJ3YloPFoCfjAw+3u2qeWFZG6ac=",
+  "Source": "ProjectManagement",
+  "BasePath": "_content/ProjectManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectManagement\\wwwroot",
+      "Source": "ProjectManagement",
+      "ContentRoot": "E:\\code\\web\\assignment\\ProjectManagement\\wwwroot\\",
+      "BasePath": "_content/ProjectManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
